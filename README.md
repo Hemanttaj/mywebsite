@@ -11,4 +11,6 @@ pull the git
 git pull and this is the same file in which we used to do the changes in
 the system and we saw the colned the repository in the local system.
 we also made changes to the file in the git hub site and also pulling he
+there are some changes in the system of the file and we will aslo tend to do some changes in the 
+main local file of the system. There are however, the whole of the systema nd we
 
